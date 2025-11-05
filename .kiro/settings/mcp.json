@@ -9,9 +9,23 @@
       },
       "disabled": false,
       "autoApprove": [
-        "unity_find_assets",
         "unity_read_script",
-        "unity_analyze_scene"
+        "unity_create_script", 
+        "unity_inspect_scene",
+        "unity_list_gameobjects",
+        "unity_search_assets",
+        "unity_get_project_overview",
+        "unity_capture_screenshot",
+        "unity_capture_camera_view",
+        "unity_get_scene_info",
+        "unity_get_scene_hierarchy",
+        "unity_create_gameobject",
+        "unity_delete_gameobject", 
+        "unity_set_property",
+        "unity_add_component",
+        "unity_set_component_property",
+        "unity_cleanup_screenshots",
+        "unity_force_refresh"
       ]
     }
   }
