@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "unity-mcp": {
+      "command": "python",
+      "args": ["Packages/com.kiro.unity-mcp/Runtime/UnityMCPServer.py"],
+      "env": {
+        "PYTHONPATH": "Packages/com.kiro.unity-mcp/Runtime",
+        "FASTMCP_LOG_LEVEL": "INFO"
+      },
+      "disabled": false,
+      "autoApprove": [
+        "unity_find_assets",
+        "unity_read_script",
+        "unity_analyze_scene"
+      ]
+    }
+  }
+}

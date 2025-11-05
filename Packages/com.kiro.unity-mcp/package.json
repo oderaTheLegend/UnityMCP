@@ -1,0 +1,19 @@
+{
+  "name": "com.kiro.unity-mcp",
+  "version": "1.0.0",
+  "displayName": "Kiro Unity MCP Server",
+  "description": "Model Context Protocol server for Unity integration with Kiro AI assistant",
+  "unity": "2022.3",
+  "author": {
+    "name": "Kiro",
+    "email": "support@kiro.ai"
+  },
+  "keywords": [
+    "mcp",
+    "ai",
+    "assistant",
+    "unity",
+    "kiro"
+  ],
+  "category": "Tools"
+}
